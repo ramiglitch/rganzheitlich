@@ -24,6 +24,10 @@ LinkedIn: [[Add your LinkedIn link here](https://www.linkedin.com/in/tebizi-akra
 Instagram: [[Add your channel link here](https://www.instagram.com/rganzheitlich?igsh=bGtoOXM0bHZybjIz)]
 
 Always open to collaborating on innovative technical projects, especially in AI-driven workflows and game development.
+
+
+### 📈 GitHub Stats:
+![Rami's Stats](https://github-readme-stats.vercel.app/api?username=rganzahltich&show_icons=true&theme=radical)
 <!--
 **rganzheitlich/rganzheitlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
