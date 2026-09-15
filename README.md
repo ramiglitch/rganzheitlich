@@ -1,6 +1,3 @@
-أكيد، هذا **كل الـREADME كامل في بلوك واحد** عشان تضغط Copy وتنسخه كامل مباشرة:
-
-```markdown
 <div align="center">
 
 # 👋 Hey, I'm Rami GLITCH
