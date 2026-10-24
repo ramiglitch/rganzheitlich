@@ -150,15 +150,17 @@ Optimize
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rganzheitlich&show_icons=true&hide_border=true&rank_icon=github&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramiglitch&show_icons=true&hide_border=true&rank_icon=github&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rganzheitlich&layout=compact&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiglitch&layout=compact&hide_border=true&theme=radical)
 
 </div>
+
 
 ---
 
