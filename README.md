@@ -8,7 +8,7 @@ I build **software, AI systems, bots, automation tools, websites, and applicatio
 
 I enjoy solving complex problems, understanding systems from the inside, and turning ideas into practical solutions.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rganzheitlich)
+[![GitHub](https://github.com/ramiglitch)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tebizi-akram-rami-747829355/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rganzheitlich/)
 
