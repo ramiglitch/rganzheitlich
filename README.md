@@ -1,3 +1,60 @@
+
+---
+
+<div align="center">
+
+# `GLITCH_TERMINAL`
+
+**AI BUILDER · DEVELOPER · SECURITY ENTHUSIAST**
+
+</div>
+
+<details open>
+<summary><code>root@glitch:~$ whoami</code></summary>
+
+- Building AI-powered tools and agents.
+- Exploring local LLMs and automation.
+- Developing creative software projects.
+
+</details>
+
+<details>
+<summary><code>root@glitch:~$ projects</code></summary>
+
+- **TieWork** — AI-powered development workspace.
+- **RIMA** — Telegram bot ecosystem.
+- **Experiments** — AI tools and developer utilities.
+
+</details>
+
+<details>
+<summary><code>root@glitch:~$ help</code></summary>
+
+- `whoami` — About me.
+- `projects` — My projects.
+- `help` — Explore this profile.
+
+</details>
+
+<div align="center">
+
+`SYSTEM ONLINE` · `BUILT WITH CURIOSITY`
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 # 👋 Hey, I'm Rami GLITCH
